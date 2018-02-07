@@ -5,5 +5,5 @@ This is basically Monitors the Hardware peripheral Devcies supported on the Moth
 This is taken as reference from the from the i2c-tools and MSR tools
 
 The below links are the most usefeull links for better understanding
-      * http://rpmfind.net/linux/rpm2html/search.php?query=msr-tools%28x86-32%29
-      * http://www.lm-sensors.org/wiki/I2CTools
+          1. http://rpmfind.net/linux/rpm2html/search.php?query=msr-tools%28x86-32%29
+          2. http://www.lm-sensors.org/wiki/I2CTools
